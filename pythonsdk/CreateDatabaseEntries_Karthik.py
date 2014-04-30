@@ -1,0 +1,213 @@
+import simplejson as json
+import re
+import os
+from facepy import GraphAPI
+from facepy import utils
+import time
+count = 0
+path = "./pagePostDir"
+count = 0
+startTime = time.time()
+ACCESS_TOKEN_INDEX = 0
+'''ACCESS_TOKEN = ["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" ]
+app_id = [611544822263503,303496926473915,1422868164637609,556921211088906,770331796324810,695597257146122,393040487503439,274575549383890,231131917077996,236458356559086] 
+# must be integer
+
+app_secret = ["c21fd07be20e645cac983efcc1f7c1bf","ed5dd19bc8873a3b11ce125a105112bb","77f6825dbfdf5a34e8d80e9fa0355435","1bafcd1c3e494666762b0814b82c82c2","21ad88b72002d8732a8488c3b8fbdf9f", "f5f78d057a7489a238396ff505c4c3f3","ff6bea254a2504e8df245d211fb04ece","5991a1e13c821cf1df2648ead345c6d4","5eb3e59f571e41fe1001555c661d7a84","78dadd6a8445d9f731062570d8f26aae"]
+index = 0
+while index < len(ACCESS_TOKEN) :
+	#short lived access token generated from the facebook developers site
+	USER_ACCESS_TOKEN = ACCESS_TOKEN[index]
+	#generating long lived access tokeb from the short lived access token 
+	try :
+		ACCESS_TOKEN[index], expires_at = utils.get_extended_access_token(USER_ACCESS_TOKEN, app_id[index], app_secret[index])
+	except Exception as error_message :
+		print error_message
+		if error_message[1:3] == "190" :
+			print "Error code 190..continuing, index = ",index
+		index = index + 1
+		continue
+	index = index+1
+	print "long_lived_ACCESS_TOKEN = ",  ACCESS_TOKEN[index-1]
+	print "expires at = ",expires_at
+
+print ACCESS_TOKEN'''
+
+
+ACCESS_TOKEN =[u'CAAIsMlZClLs8BAIyYMM3o70ihdZBgoxnQqlnFWTLgsswqwIgFYoYNNVQtZAP3SEZBE6LxbVoJ0A5q8mPRxERZCMySAvxnxUNeTeA4UAxIKIQtSpkp0qEVWGQaFsKwGqG0jYUuZCGiurZBQ9bSppoKDzdMZBmTKZB0G0ecBFNYHTkhHMAvR23p7m64tzR8Mr2OI58ZD', u'CAAEUB2JZBLrsBACEZAAOLPg3fqlac5ozfwd6ICsiM5BwRc4RGV1roxPvdZBLlbpZAziHBQo4RkZAleGaU3dYJhbTfDSBj7cflrUC0Mz39nvZBXjLVGsdWXIwy10qa4jg3QerQd8mdwgTdyy60GqsX6ZAxbADDffpq0hXp8iPIbgbQQbAHY0GAyfQieNQTg4oDwZD', u'CAAUOF0ZBD86kBAIbKswSyZA0kLlqcdAKpJBGs9wkoiHR7HIywZB9OBeroRwZAyHZAd7mZBMw6veMevty9shNysIvJ62GcFM3YkVj56TzIdfC9WqDNU2DZAwR4iFJ4u3C7G5UJan3EFDSXAV8ZBGKYtvoVz2FhBNJUYWjl2YPJw073OaQQyXUbYscz5gZB5GK8oaEZD', u'CAAH6hFL0cAoBACtLoDR14OJvmq2bEfKZClzqtcfHA2i5Mpy2NVaiUTexzwpMOpQqrStBZBvsKZArALo0aaSZCiqZCrZBTuWX70rzPUS7FIVfZCSNINjqTodSS7fYxHFXuBcMiOTwGGn3CaHe0B6aJkUgPWq6fCzZCCjPsuHBuINhDm5p64ze2poGqwge7rCD6ZAMZD', u'CAAK8nNkUQcoBAKpTQwZAhLPkKoZCRvw4yb60BS2ZC8tspkRMeU7lLZAywydlOHjdQcrFYsmpLiOrKXNKtHviE7dbwZCfFMRrJW0QKN4HAAaVwPqM6HgqDRXOjbV3ZCMGeFEptnSAkt0Ym6wNOzDZCZCuNk8I2GmPjf4LIXG3ZCPdBYeHBoYTtxdhMrt64CNvzW8cZD', u'CAAJ4pFtrPwoBAItEhGwmoIldIAhYOLzzhNdVE8FE8Fkwg8swBiWOa86A0R8CWZAbVSUfeoMIawCNnnIvRVGyqx3FYZAb3qshoXsmGxdQft2qZAzUEwqzaEKwUEZCY33C8yOxXt7sqnGZC8ZAQV90t6sQWVYZAu60ZAiobYAAdaVCSdlxkcV67jAkAHM2d7jvf6QZD', u'CAAFld96j1k8BAP1frXH4SO2jTR5nynD1LdAGZCUy0mlSuH5fizXz7Yk3GZAhmCdAaScEJBsrjPQZCpMZBwalzcPvLpiv0hq6Vj0uavbRWHFVmomHjtCI9smvUGtBwZBZCrGl93yxpc0COuLZCTiZBOD83xZC92UBqR8FUDWhwSrRRXWjlZBIpPKWmB8NM8XwTxx5EZD', u'CAAD5uZAoVxNIBAMDZCNywxvcR8jaJ2C0OKmmRVyWhSbKuq8HbcxyJKexBx9id0XCyaCbZAabkKOYZBwpeU9dFHZB9kIMAhUZCcEwrYLdsA1ZArI42ohH48gKSTmxBWtNOzNB0dFGZAGv2VeZAUVS3u6tE9twkfZCTbiQKR8U1XTQGcW8ZCDcZBlRr6MEZC63QN2Bb224ZD', u'CAADSNpfQTewBADLJ41XpIB0UdcZByzFxH1utW1DNpBeZCbPkEvJP6XhtLZB2OH8ZAoimDPJCZAZBxMWdzSZBB1lvi5YFBEFoh62Q6QvItZCPJptm36pVO1YmaNfhx0X7hCflrOZACHZChsI9RW3O1Utx6YZBzZBt116ZCfCDyjVUUJzeKIAeHzWpiCFwLegZBzk6JhOYwZD', u'CAADXDsBYzO4BAO67uYMIHLYgHdZBp3eFHg5gy8ID62AsBDcz5WrB065O1ZBGfvXlN6UlaTt0xDbUZBrkkDCSqIPpU638wCswXoxQguZCwZAAVWIoxQOt1i9bAOIvD8kesc3v9X5YhgBw3WyEZCpZAxLzoZBO5qnBQkPfzULN11UZC2crb4NGyKGtu4ZBcxuX8bWWEZD']
+graph = GraphAPI(ACCESS_TOKEN[ACCESS_TOKEN_INDEX]);
+
+'''fo = open("pagePostTable.data","ab+")
+#Creating PostTable Entries
+startTime = time.time()
+for root,dirs,files in os.walk(path):
+	for page in files :
+		print "page = ",page
+		if page.endswith(".txt") :
+			cFile = open(os.path.join(root,page),"r")
+			for line in cFile :
+				if(count > 30416) :
+					pageID = str("0")
+					postID = str("0")
+					date =  str(" ")
+					objectID = str(" ")
+					data = json.loads(line)
+					if not "message" in data.keys() :
+						continue
+					pageID = int(data["from"]["id"])
+					print "postID full = ",data["id"],
+					postID = int((data["id"].split('_'))[1])
+					print "actual postID = ",postID
+					likes = int(0)
+					shares = int(0)
+					comments = int(0)
+					if(count !=0 and count%600 == 0) :
+						endTime = time.time();
+						print "count = ",count
+						print "time elapsed =",endTime-startTime
+						time.sleep(10)
+						ACCESS_TOKEN_INDEX = ACCESS_TOKEN_INDEX + 1
+						if(ACCESS_TOKEN_INDEX == 10 ) :
+							ACCESS_TOKEN_INDEX = 0 
+						isCheck = 1
+						while(isCheck ) :
+							isCheck = 0
+							try:
+        	   					        graph = GraphAPI(ACCESS_TOKEN[ACCESS_TOKEN_INDEX])
+        						except Exception as error_message:
+								print "error_message = ",error_message
+								sleep_time = 10
+        	    						if error_message[3:4] == "17" :
+									sleep_time = 1900
+								if error_message[1:3] == "613" :
+									sleep_time = 600
+	                					print "Sleeping for %d seconds." %(sleep_time)
+	                					time.sleep(sleep_time) 
+								isCheck = 1
+					isCheck = 1
+					while( isCheck ) :
+						isCheck = 0
+						try:
+        	   			        	likeData = graph.get("/fql?q=SELECT%20like_info.like_count,%20comment_info.comment_count,%20share_count%20FROM%20stream%20WHERE%20post_id%20=%20%22"+data["id"]+"%22")
+        					except Exception as error_message:
+							print "error_message = ",error_message
+							sleep_time = 10
+        	    					if error_message[3:4] == "17" :
+								sleep_time = 1800
+							if error_message[1:3] == "613" :
+								sleep_time = 600
+	                				print "Sleeping for %d seconds." %(sleep_time)
+	                				time.sleep(sleep_time) 
+							isCheck = 1
+					print "like Data = ",likeData, "count = ",count, "timeElapsed = ",time.time()-startTime
+	                                commentData = []
+					if(len(likeData["data"]) > 0) :
+						likes = likeData["data"][0]["like_info"]["like_count"];
+						comments = likeData["data"][0]["comment_info"]["comment_count"]
+					print "likes = ",likes,"comments = ",comments
+					if "shares" in data :
+						shares = int(data["shares"]["count"])
+					author = "NILESH"
+					date = (data["created_time"].split('T'))[0]
+					post = data["message"]
+					objectID = 0
+					if "object_id" in data :
+						objectID = str(data["object_id"])
+					fo.write("SNL1990%s,,,%s,,,%d,,,%d,,,%d,,,%s,,,%s,,,%s,,,%s,,,%dSNL1990" %(str(postID),str(pageID),likes,comments,shares,author,date,objectID,post.encode('utf-8'),bool(1)))
+				count = count + 1
+fo.close()
+print "Count = ",count
+#creating PageTable Entries
+'''
+
+path = "./groupPostDir"
+groupCount = 0
+fo = open("groupPostTable.data","wb+")
+#Creating PostTable Entries
+for root,dirs,files in os.walk(path):
+	for page in files :
+		print "page = ",page
+		if page.endswith(".txt") :
+			cFile = open(os.path.join(root,page),"r")
+			for line in cFile :
+				if(count > -1) :
+					pageID = str("0")
+					postID = str("0")
+					date =  str(" ")
+					objectID = str(" ")
+					data = json.loads(line)
+					print "keys = ",data.keys()
+					if not "message" in data.keys() :
+						continue
+					pageID = int(data["from"]["id"])
+					print "postID full = ",data["id"],
+					postID = int((data["id"].split('_'))[1])
+					print "actual postID = ",postID
+					likes = int(0)
+					shares = int(0)
+					comments = int(0)
+					author = str("Nilesh")
+					if(count !=0 and count%600 == 0) :
+						endTime = time.time();
+						print "count = ",count
+						print "time elapsed =",endTime-startTime
+						time.sleep(10)
+						ACCESS_TOKEN_INDEX = ACCESS_TOKEN_INDEX + 1
+						if(ACCESS_TOKEN_INDEX == 10 ) :
+							ACCESS_TOKEN_INDEX = 0
+						isCheck = 1
+						while(isCheck):
+								isCheck = 0
+								try:
+        	   						        graph = GraphAPI(ACCESS_TOKEN[ACCESS_TOKEN_INDEX])
+        							except Exception as error_message:
+									print "error_message = ",error_message
+									sleep_time = 10
+        	    							if error_message[3:4] == "17" :
+										sleep_time = 1900
+									if error_message[1:3] == "613" :
+										sleep_time = 600
+	                						print "Sleeping for %d seconds." %(sleep_time)
+	                						time.sleep(sleep_time) 
+									isCheck = 1
+					isCheck = 1
+					while( isCheck ) :
+						isCheck = 0
+						try:
+        	   			        	likeData = graph.get("/fql?q=SELECT%20like_info.like_count,%20comment_info.comment_count,%20share_count%20FROM%20stream%20WHERE%20post_id%20=%20%22"+data["id"]+"%22")
+        					except Exception as error_message:
+							print "error_message = ",error_message
+							sleep_time = 10
+        	    					if error_message[3:4] == "17" :
+								sleep_time = 1800
+							if error_message[1:3] == "613" :
+								sleep_time = 600
+	                				print "Sleeping for %d seconds." %(sleep_time)
+	                				time.sleep(sleep_time) 
+							isCheck = 1
+						
+					print "like Data = ",likeData, "count = ",count, "timeElapsed = ",time.time()-startTime 
+					if(len(likeData["data"]) > 0 ):
+						likes = likeData["data"][0]["like_info"]["like_count"];
+						comments = likeData["data"][0]["comment_info"]["comment_count"]
+					if "shares" in data :
+						shares = int(data["shares"]["count"])
+					if("from" in data ) :
+						if "id" in data["from"] :
+							author = str(data["from"]["id"])
+						if "name" in data["from"]:			
+							author = author+"_"+data["from"]["name"]
+					print "Author = ",author				
+					date = (data["created_time"].split('T'))[0]
+					post = data["message"]
+					objectID = 0
+					if "object_id" in data :
+						objectID = str(data["object_id"])
+					fo.write("SNL1990%s,,,%s,,,%d,,,%d,,,%d,,,%s,,,%s,,,%s,,,%s,,,%dSNL1990" %(str(postID),str(pageID), likes, comments, shares, author.encode('utf-8'), date,objectID,post.encode('utf-8'),bool(0)))
+					groupCount = groupCount + 1
+				count = count + 1
+fo.close()
+print "Count = ",count	
+print "groupCount = ", groupCount
+#creating groupTable Entries
+

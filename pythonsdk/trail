@@ -1,0 +1,60 @@
+import sys
+import json
+import facebook
+import urllib2
+from facepy import GraphAPI
+#from facebook_login import login
+
+#ACCESS_TOKEN = login()
+from facepy import utils
+app_id = 1476062702607954 # must be integer
+app_secret = "dcaa2a6dd1a5c18e068d05341b572395" 
+ACCESS_TOKEN = 'CAAUZBeKEOHlIBAA2cfPK4FuUS5tZCUzOfAd5tfq7JRVhbvTYIk1xcBoLaBa1YSxgGqCPwzUs6F1Ge0WQnDG0zN8k1jVdoub6Jk1c754ZCpFckUvFlLw6jVgyuPrk87p80uBL156V57YmeE9ZCElyJYzj9K4I4mhgBWGLJ4ZAvIiUXIGxIA3dXfWAghztuaY4Ms3witfteAQZDZD'
+#ACCESS_TOKEN = utils.get_application_access_token(app_id, app_secret)
+#print "ACCESS_TOKEN =",ACCESS_TOKEN
+long_lived_access_token, expires_at = utils.get_extended_access_token(ACCESS_TOKEN, app_id, app_secret)
+print "ACCESS_TOKEN = ",  long_lived_access_token
+LIMIT = 100
+#long_lived_access_token = ACCESS_TOKEN
+
+
+graph = GraphAPI(long_lived_access_token);
+print graph.get('me/posts')
+#gapi = facebook.GraphAPI(long_lived_access_token)
+# Find groups with the query term in their name
+'''group_ids = []
+i = 0
+Q = 'programming'
+while True:
+	print "Inside While Loop"
+	results = gapi.request('search', {
+	'q': Q,
+	'type': 'group',
+	'limit': LIMIT,
+	'offset': LIMIT * i,
+	})
+	if not results['data']:
+		break
+	ids = [group['id'] for group in results['data'] if group['name'].lower().find('programming') > -1]
+# once groups stop containing the term we are looking for in their name, bail out
+	if len(ids) == 0:
+		break
+	group_ids += ids
+	i += 1
+if not group_ids:
+	print 'No results'
+	sys.exit()
+# Get details for the groups
+groups = gapi.get_objects(group_ids, metadata=1)
+#Count the number of members in each group. The FQL API documentation at
+#http://developers.facebook.com/docs/reference/fql/group_member hints that for
+#groups with more than 500 members, we'll only get back a random subset of up
+#to 500 members.
+for g in groups:
+	group = groups[g]
+	conn = urllib2.urlopen(group['metadata']['connections']['members'])
+	try:
+		members = json.loads(conn.read())['data']
+	finally:
+		conn.close()
+		print group['name'], len(members)'''

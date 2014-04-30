@@ -1,0 +1,551 @@
+{"category": "Professional sports team", "name": "Texas A&M Football", "id": "107913509242278"}
+{"category": "School sports team", "name": "Texas A&M Quidditch", "id": "155828851146262"}
+{"category": "Library", "name": "Texas A&M University Libraries", "id": "102337189813993"}
+{"category": "Media/news/publishing", "name": "Student Insider - Texas A&M", "id": "238716439554327"}
+{"category": "Professional sports team", "name": "Texas A&M Aggies baseball", "id": "104074172961499"}
+{"category": "Community", "name": "Texas A&Memes", "id": "289980891065332"}
+{"category": "Education", "name": "Texas A&M University College of Veterinary Medicine & Biomedical Sciences", "id": "151019956800"}
+{"category": "Professional sports team", "name": "Texas A&M", "id": "157094058589"}
+{"category": "Musician/band", "name": "A Night In Texas", "id": "370311196163"}
+{"category": "Media/news/publishing", "name": "Texas A&M Football on SDS", "id": "527290810695832"}
+{"category": "University", "name": "Texas A&M University Corps of Cadets", "id": "108492122508688"}
+{"category": "Sports league", "name": "Texas A&M Aggies", "id": "105573596144047"}
+{"category": "Local business", "name": "Texas A&M Bookstore", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "197048876974331", "name": "Book Store"}], "id": "94511149253"}
+{"category": "University", "name": "Texas A&M Memorial Student Center", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "127459633489"}
+{"category": "Government organization", "name": "Texas A&M Forest Service", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "283145907175"}
+{"category": "Organization", "name": "Texas A&M BYX", "id": "131122976999395"}
+{"category": "University", "name": "Texas A&M Engineering", "id": "6116847948"}
+{"category": "School sports team", "name": "Texas A&M Rugby", "id": "220610059785"}
+{"category": "University", "name": "Texas A&M University at Qatar", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "108074315887791"}
+{"category": "Local business", "name": "Texas A&M Aggie Baseball", "category_list": [{"id": "109976259083543", "name": "Sports Venue & Stadium"}], "id": "113269848762811"}
+{"category": "School sports team", "name": "Texas A&M Tennis", "id": "159486204061855"}
+{"category": "Organization", "name": "Texas A&I Alumni Center", "category_list": [{"id": "187679647929203", "name": "Collectibles Store"}, {"id": "198503866828628", "name": "Organization"}], "id": "105816052834394"}
+{"category": "School", "name": "Texas A&M University-Texarkana", "category_list": [{"id": "365182493518892", "name": "School"}, {"id": "108051929285833", "name": "College & University"}], "id": "46957822960"}
+{"category": "University", "name": "Texas A&M Science", "id": "32984682230"}
+{"category": "School sports team", "name": "Texas A&M Polo", "id": "132791981338"}
+{"category": "Education", "name": "Texas A&M University at Qatar", "id": "42568619678"}
+{"category": "Education", "name": "Texas A&M Information Technology", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "187193281310293"}
+{"category": "University", "name": "Texas A&M Sustainability", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "140471500738"}
+{"category": "Education", "name": "Texas A&M Liberal Arts", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "93033712319"}
+{"category": "School sports team", "name": "Texas A&M Aggies men's basketball", "id": "103758336329910"}
+{"category": "Education", "name": "Texas A&M International University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "167398330729"}
+{"category": "Sports league", "name": "Texas A&M Football", "id": "104631412980223"}
+{"category": "Education", "name": "Texas A&M University - College of Agriculture and Life Sciences", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "24716582647"}
+{"category": "School", "name": "Texas A&M Panhellenic", "id": "118536095006171"}
+{"category": "Entertainer", "name": "Texas A&M Crushes", "id": "232794586887681"}
+{"category": "Website", "name": "Texas A&M to the SEC", "id": "130976270261816"}
+{"category": "University", "name": "Texas A&M Young Alumni", "id": "445538375471322"}
+{"category": "Government organization", "name": "Texas A&M University Police Department", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "56604466785"}
+{"category": "Education", "name": "Texas A&M International University Student Affairs", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "192176032294"}
+{"category": "Community organization", "name": "Universal Pictures: Texas A&M University", "id": "277219655716815"}
+{"category": "Sports/recreation/activities", "name": "Texas A&M Rec Sports", "id": "46911609076"}
+{"category": "University", "name": "Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "25493258171"}
+{"category": "Non-profit organization", "name": "Texas A&M Foundation", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "16570420759"}
+{"category": "Organization", "name": "Texas A&M Entomology", "id": "11857793194"}
+{"category": "Organization", "name": "Texas A&M Career Center", "id": "10402816716"}
+{"category": "Education", "name": "Texas A&M Animal Science", "id": "114178372474"}
+{"category": "Professional sports team", "name": "Texas A&M Pistol Team", "id": "54485253060"}
+{"category": "Church/religious organization", "name": "Texas A&M Hillel", "category_list": [{"id": "184925784880952", "name": "Synagogue"}, {"id": "108051929285833", "name": "College & University"}], "id": "86539335150"}
+{"category": "University", "name": "Texas A&M University at Galveston", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "32963389532"}
+{"category": "Education", "name": "Texas A&M University-Central Texas", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "117992935984"}
+{"category": "School sports team", "name": "Texas A&M Swimming and Diving", "id": "270616204543"}
+{"category": "Community", "name": "Texas A&M Class of 2015", "id": "189092767795677"}
+{"category": "Education", "name": "Texas A&M Study Abroad", "id": "19423426230"}
+{"category": "Education", "name": "Texas A&M Department of Health and Kinesiology", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "52555647371"}
+{"category": "Home decor", "name": "A Lil North of Texas", "id": "533801750054623"}
+{"category": "Church/religious organization", "name": "Texas A&M Wesley Foundation", "category_list": [{"id": "193064780713408", "name": "Methodist Church"}, {"id": "187714557925874", "name": "Religious Organization"}, {"id": "108051929285833", "name": "College & University"}], "id": "120645881283071"}
+{"category": "Sports/recreation/activities", "name": "Texas A&M Outdoor Adventures", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "130635813622780"}
+{"category": "School sports team", "name": "Texas A&M Gymnastics", "category_list": [{"id": "184405378265823", "name": "Gym"}], "id": "127126672338"}
+{"category": "School sports team", "name": "Texas A&M Sport Clubs", "category_list": [{"id": "183013211744255", "name": "Recreation Center"}, {"id": "108051929285833", "name": "College & University"}, {"id": "198503866828628", "name": "Organization"}], "id": "188979972305"}
+{"category": "Education", "name": "Texas A&M University-Commerce", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "100366083344764"}
+{"category": "Organization", "name": "Texas A&M Legacies", "id": "530944693671129"}
+{"category": "Education", "name": "Texas A&M Engineering Extension Service - TEEX", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "28077688299"}
+{"category": "Education", "name": "Texas A&M University College of Architecture", "id": "11950375419"}
+{"category": "Local business", "name": "Texas A&M University - Kingsville Bookstore", "category_list": [{"id": "197048876974331", "name": "Book Store"}, {"id": "108051929285833", "name": "College & University"}], "id": "122571931094548"}
+{"category": "Organization", "name": "Texas A&M Greek Life", "id": "51403366365"}
+{"category": "Pet services", "name": "Texas A&M Veterinary Medical Teaching Hospital", "category_list": [{"id": "162068413843305", "name": "Veterinarian"}, {"id": "108051929285833", "name": "College & University"}], "id": "162855267158024"}
+{"category": "Government organization", "name": "Texas A&M Corps of Cadets", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "7348375765"}
+{"category": "University", "name": "Texas A&M University - Kingsville", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "79706755508"}
+{"category": "University", "name": "Texas A&M University-San Antonio", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "324797851443"}
+{"category": "University", "name": "Texas A&M Pre-Medical Society", "id": "161941460504911"}
+{"category": "Recreation/sports website", "name": "Texas A&M Aggies", "id": "40623431545"}
+{"category": "School sports team", "name": "Texas A&M Aggies softball", "id": "144965342180693"}
+{"category": "University", "name": "Texas A&M Transportation Institute", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "311158400744"}
+{"category": "Non-profit organization", "name": "Texas A&M Delta Zeta", "id": "266497116785590"}
+{"category": "Organization", "name": "Texas A&M University-Commerce Libraries", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "198503866828628", "name": "Organization"}], "id": "420595475236"}
+{"category": "University", "name": "Texas A&M Parents' Weekend", "id": "230215340370647"}
+{"category": "Organization", "name": "Texas A&M Kappa Delta", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "198503866828628", "name": "Organization"}], "id": "407927179290235"}
+{"category": "Education", "name": "Texas A&M Soil & Crop Sciences", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "46256627954"}
+{"category": "Clothing", "name": "Texas A&M Aggies Store", "id": "369954546471639"}
+{"category": "School sports team", "name": "Texas A&M Cycling Team", "category_list": [{"id": "189018581118681", "name": "Sports Club"}], "id": "100439347291"}
+{"category": "Food/beverages", "name": "Texas A&M University Dining Services", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "135871740581"}
+{"category": "Amateur sports team", "name": "Texas A&M Compliance", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "137023322997855"}
+{"category": "University", "name": "Texas A&M Army ROTC", "id": "113980542020180"}
+{"category": "School sports team", "name": "Texas A&M Rodeo Team", "id": "370953352979778"}
+{"category": "Concert tour", "name": "Texas A&M University Singing Cadets", "id": "14969182631"}
+{"category": "University", "name": "Texas A&M Wildlife and Fisheries Sciences", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "270115323088033"}
+{"category": "Clothing", "name": "Texas A&M Gig 'Em Heels", "id": "474285855940468"}
+{"category": "Sports/recreation/activities", "name": "Texas A&M Intramural Sports", "id": "198566140184594"}
+{"category": "Education", "name": "Texas A&M University College of Geosciences", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "30730623774"}
+{"category": "University", "name": "Texas A&M Livestock Judging Team", "category_list": [{"id": "188662441155211", "name": "Community & Government"}], "id": "154791428045847"}
+{"category": "School sports team", "name": "Texas A&M University Skydiving Club", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "189018581118681", "name": "Sports Club"}], "id": "245971968794401"}
+{"category": "Community", "name": "Texas A&M Class of 2016", "id": "306336659394574"}
+{"category": "School sports team", "name": "Texas A&M Triathlon", "id": "167343823324050"}
+{"category": "Organization", "name": "Texas A&M GLBT Resource Center", "id": "34429236197"}
+{"category": "Education", "name": "Texas A&M University School of Law", "category_list": [{"id": "176831012360626", "name": "Professional Services"}, {"id": "108051929285833", "name": "College & University"}], "id": "131874206850080"}
+{"category": "Local business", "name": "Texas A&M Golf Course", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "96220553228"}
+{"category": "University", "name": "Texas A&M Scholarships & Financial Aid", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "103461366501353"}
+{"category": "Professional sports team", "name": "Texas A&M Aggies women's soccer", "id": "108395845850905"}
+{"category": "School sports team", "name": "West Texas A&M Women's Basketball", "id": "255866794446242"}
+{"category": "Education", "name": "Texas A&M Education & Human Development", "id": "37628518940"}
+{"category": "Product/service", "name": "Texas A&M Pre-Vet Society", "id": "184536444913868"}
+{"category": "University", "name": "Texas A&M University-Commerce Planetarium", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "105814569506041"}
+{"category": "University", "name": "Texas A&M University Writing Center", "id": "6069997491"}
+{"category": "Health/medical/pharmacy", "name": "Texas A&M Emergency Care Team", "id": "124437757878"}
+{"category": "Education", "name": "Texas A&M Chemistry", "id": "143752232327823"}
+{"category": "Organization", "name": "Texas A&M Alpha Chi Omega", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "572171242816534"}
+{"category": "University", "name": "Texas A&M University-Corpus Christi", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "205191620342"}
+{"category": "University", "name": "Texas A&M Texas Trophy Hunters", "id": "218068461578428"}
+{"category": "Community organization", "name": "Texas A&M PIKE", "id": "589010994524420"}
+{"category": "Non-profit organization", "name": "Texas A&M Cupcakes", "id": "102287719895647"}
+{"category": "Education", "name": "Texas A&M Health Science Center Rangel College of Pharmacy", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "134381433294944", "name": "Pharmacy"}], "id": "107015669326493"}
+{"category": "Organization", "name": "Texas A&M League of Legends", "id": "325530617547967"}
+{"category": "Education", "name": "Texas A&M University-Commerce Department of Music", "id": "200718693395440"}
+{"category": "Community", "name": "Texas A&M Sport Management", "id": "531467820243529"}
+{"category": "Magazine", "name": "Texas A&M The Eckleburg Project", "id": "438231059593608"}
+{"category": "Organization", "name": "Texas A&M University System", "id": "104107536291980"}
+{"category": "School", "name": "Texas A&M Class of 2017", "id": "331410740279249"}
+{"category": "Organization", "name": "Texas  A&M University - Department of Nutrition and Food Science", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "59072969985"}
+{"category": "Tv show", "name": "Storage Wars: Texas on A&E", "id": "209387675818061"}
+{"category": "Local business", "name": "Texas A&M-Commerce Volleyball", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "145356192142869"}
+{"category": "Local business", "name": "Texas A&M Women's Golf", "category_list": [{"id": "176059775772759", "name": "Golf Course"}], "id": "162914050404529"}
+{"category": "Community", "name": "Texas A&M Chi Omega Songfest", "id": "151195745090498"}
+{"category": "Non-profit organization", "name": "Make-A-Wish Central & South Texas", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "61367609251"}
+{"category": "Pet services", "name": "Texas A&M Veterinary Dermatology", "id": "118454931591271"}
+{"category": "Professional sports team", "name": "Texas A&M-Commerce Soccer Team", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "125250984188690"}
+{"category": "Organization", "name": "Texas A&M Crew", "id": "203221106364305"}
+{"category": "Non-profit organization", "name": "Texas A&M Hispanic Network", "id": "115863145108600"}
+{"category": "University", "name": "Texas A&M School of Law", "id": "189184511235179"}
+{"category": "Education", "name": "Texas A&M University-San Antonio, College of Business", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "367859383250451"}
+{"category": "School sports team", "name": "Texas A&M Powerlifting", "id": "170203963020030"}
+{"category": "University", "name": "Texas A&M University (Texarkana)", "id": "108787212486890"}
+{"category": "Sports league", "name": "Texas A&M Spikeball", "id": "257243144378960"}
+{"category": "School sports team", "name": "Texas A&M\u2013Kingsville Javelinas", "id": "110180565678513"}
+{"category": "Organization", "name": "Texas A&M University Department of Computer Science and Engineering", "id": "59325721124"}
+{"category": "School", "name": "Texas A&M University: Industrial and Systems Engineering", "category_list": [{"id": "365182493518892", "name": "School"}], "id": "252325894844591"}
+{"category": "School", "name": "Texas A&M Business Honors", "id": "273095100715"}
+{"category": "Sports/recreation/activities", "name": "Texas A&M Tennis Camp", "id": "376899749069081"}
+{"category": "Engineering/construction", "name": "Texas A&M IEEE", "id": "280414618637350"}
+{"category": "Health/medical/pharmaceuticals", "name": "Texas A&M Veterinary Oncology", "id": "127827027310465"}
+{"category": "Personal blog", "name": "Texas Type A Mom", "id": "144103138976621"}
+{"category": "Education", "name": "Texas A&M AgriLife Extension Service", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "118030660776"}
+{"category": "Education", "name": "Texas A&M University Honors Programs", "id": "64396601157"}
+{"category": "Organization", "name": "Texas A&M Off-Road", "id": "206949246028223"}
+{"category": "School", "name": "Texas A&M ROTC - Corpus Christi", "category_list": [{"id": "365182493518892", "name": "School"}, {"id": "108051929285833", "name": "College & University"}, {"id": "211799228831980", "name": "Active Life"}], "id": "107264362664168"}
+{"category": "School sports team", "name": "Texas A&M Racing | Formula SAE", "id": "101991046541777"}
+{"category": "Education", "name": "Texas A&M University Apiculture", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "298045040328725"}
+{"category": "Organization", "name": "Texas A&M English Undergraduates", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "198503866828628", "name": "Organization"}], "id": "153578618025605"}
+{"category": "Government organization", "name": "Texas A&M Student Senate", "id": "109215045782919"}
+{"category": "Organization", "name": "Texas A&M University ACM SIGGRAPH", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "198503866828628", "name": "Organization"}], "id": "187865954578715"}
+{"category": "Organization", "name": "Texas A&M University Dance Program", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "28196944393"}
+{"category": "Company", "name": "Texas A&M Athletic Field Staff", "id": "229004205821"}
+{"category": "Health/medical/pharmacy", "name": "Texas A&M Student Health Services", "id": "281213295107"}
+{"category": "School sports team", "name": "Texas A&M Paintball Team", "id": "155947804466595"}
+{"category": "Farming/agriculture", "name": "Texas A&M Stock Horse Team", "id": "106146109537077"}
+{"category": "Local business", "name": "Texas A&M Beef Cattle Association", "id": "182027105878"}
+{"category": "University", "name": "Texas A&M University Student Employment Office", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "128797833862365"}
+{"category": "University", "name": "Texas A&M University Horse Judging", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "100910149994620"}
+{"category": "Biotechnology", "name": "Z.S.A Texas", "id": "394275857279051"}
+{"category": "Community organization", "name": "Texas A&M Entrepreneurship Society", "id": "196106147175432"}
+{"category": "Education", "name": "Texas A&M Landscape Architecture", "id": "485048141518309"}
+{"category": "Organization", "name": "Texas A&M International University Recruitment and School Relations", "category_list": [{"id": "198503866828628", "name": "Organization"}, {"id": "108051929285833", "name": "College & University"}], "id": "130034573692679"}
+{"category": "Education", "name": "Texas A&M University- Kingsville, Campus Recreation and Fitness", "id": "170427479675050"}
+{"category": "Non-profit organization", "name": "Texas A&M Innocence Project", "id": "230450562441"}
+{"category": "Local business", "name": "Texas A&M Trap & Skeet Club", "id": "110539552323272"}
+{"category": "Community", "name": "Texas A&M Delta Gamma", "category_list": [{"id": "165264720195968", "name": "Sorority & Fraternity"}], "id": "357936927647086"}
+{"category": "Company", "name": "Texas A&M Class of 2010", "id": "123432647725696"}
+{"category": "Local business", "name": "ESLI Texas A&M Corpus Christi", "category_list": [{"id": "187751327923426", "name": "Educational Organization"}, {"id": "191533400865548", "name": "Language School"}], "id": "117866594946546"}
+{"category": "School", "name": "Texas A&M Class of '97", "id": "318730914818691"}
+{"category": "School sports team", "name": "West Texas A&M University Athletics", "id": "38110392138"}
+{"category": "Farming/agriculture", "name": "Texas A&M University-Commerce Twin Oaks Blueberry Farm", "category_list": [{"id": "150815208309028", "name": "Farm"}], "id": "234549793313328"}
+{"category": "Non-profit organization", "name": "Texas A&M Young Life", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "138008839623750"}
+{"category": "Education", "name": "Texas A&M Corpus Christi Greek Life", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "93507416687"}
+{"category": "Organization", "name": "Class of 2014 at Texas A&M", "id": "10150155680230265"}
+{"category": "Non-profit organization", "name": "Texas A&M Department of Anthropology", "id": "106984569337107"}
+{"category": "Organization", "name": "Texas A&M H.E.A.T.", "id": "409005619159062"}
+{"category": "Education", "name": "Texas A&M Corpsfit Team", "id": "1455340048030003"}
+{"category": "Company", "name": "Texas A&M Football from B/R", "id": "358862474179380"}
+{"category": "Education", "name": "Texas A&M University-Commerce Bands", "id": "271712372942967"}
+{"category": "University", "name": "Texas A&M Kappa Kappa Gamma", "category_list": [{"id": "165264720195968", "name": "Sorority & Fraternity"}], "id": "161159647371150"}
+{"category": "Organization", "name": "Texas A&M SPE Student Chapter", "id": "103879719700076"}
+{"category": "Education", "name": "West Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "35570061797"}
+{"category": "School", "name": "Texas A&M University-Kingsville College of Business Administration", "category_list": [{"id": "365182493518892", "name": "School"}, {"id": "108051929285833", "name": "College & University"}], "id": "157107767656504"}
+{"category": "Musician/band", "name": "Like A Texas Murder", "id": "219350784755811"}
+{"category": "University", "name": "Texas A&M Galveston Residence Life", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "104495852944506"}
+{"category": "Education", "name": "Texas A&M Urban Planning", "id": "383269675082156"}
+{"category": "Organization", "name": "Texas A&M Tri Delta", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "532146946829641"}
+{"category": "Organization", "name": "Texas A&M University Poultry Science", "id": "213371210947"}
+{"category": "Organization", "name": "Texas A&M Houston Prospective Student Center", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "123494907463"}
+{"category": "Education", "name": "Texas A&M University-Corpus Christi Graduate Studies", "category_list": [{"id": "176831012360626", "name": "Professional Services"}, {"id": "108051929285833", "name": "College & University"}], "id": "122620420386"}
+{"category": "Musician/band", "name": "A Cappella Texas", "id": "347912125446"}
+{"category": "Education", "name": "Texas A&M Department of Communication", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "162342188512"}
+{"category": "University", "name": "Texas A&M Class of '91", "id": "199631510069979"}
+{"category": "University", "name": "Texas A&M Health Science Center", "id": "112859882061419"}
+{"category": "Organization", "name": "Texas A&M Plant Pathology & Microbiology", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "161910730198"}
+{"category": "Musician/band", "name": "Texas A&M University-Commerce Percussion Studio", "id": "147280411949473"}
+{"category": "Community", "name": "Whisper on Texas A&M", "id": "438810032833111"}
+{"category": "Organization", "name": "Texas A&M Weather Broadcasting", "id": "18762965566"}
+{"category": "Organization", "name": "Texas A&M University Baylor College of Dentistry", "category_list": [{"id": "198503866828628", "name": "Organization"}, {"id": "151676848220295", "name": "Education"}, {"id": "174187662626299", "name": "Dentist"}], "id": "156507081540"}
+{"category": "Organization", "name": "Texas A&M Competition Squad", "id": "277850618991702"}
+{"category": "Non-profit organization", "name": "The Big Event Texas A&M University", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "280212875526"}
+{"category": "School sports team", "name": "Texas A&M Track & Field / Cross Country", "category_list": [{"id": "1804", "name": "School Sports Team"}], "id": "197677963693571"}
+{"category": "Organization", "name": "Texas A&M International University Office of Career Services", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "259207839881"}
+{"category": "School sports team", "name": "Texas A&M Waterski Club", "id": "196042507090063"}
+{"category": "Musician/band", "name": "Texas A&M University Century Singers", "id": "106516322726782"}
+{"category": "Non-profit organization", "name": "Texas A&M Maritime Academy Parents Association", "id": "122633727795351"}
+{"category": "Athlete", "name": "Texas A&M Sports Talk", "id": "133378990155499"}
+{"category": "Education", "name": "Texas A&M University Qatar Library", "id": "106378826089"}
+{"category": "Non-profit organization", "name": "Texas A&M FarmHouse Fraternity", "category_list": [{"id": "165264720195968", "name": "Sorority & Fraternity"}, {"id": "108051929285833", "name": "College & University"}], "id": "102133199865592"}
+{"category": "Education", "name": "Texas A&M University - Human Resources", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "107276729310674"}
+{"category": "Organization", "name": "Texas A&M Residence Hall Association", "id": "178204882193584"}
+{"category": "Education", "name": "Texas A&M Health Science Center College of Medicine", "category_list": [{"id": "190153097675457", "name": "Medical School"}], "id": "64257055967"}
+{"category": "School sports team", "name": "Texas A&M Corpus Christi Track & Field/Cross Country", "category_list": [{"id": "161811347201528", "name": "Lodging"}, {"id": "108051929285833", "name": "College & University"}], "id": "124904917565427"}
+{"category": "Education", "name": "Texas A&M Department of Biology", "id": "78251292746"}
+{"category": "School sports team", "name": "West Texas A&M Equestrian Team", "id": "289303731183649"}
+{"category": "Home improvement", "name": "A Plus Landscaping Texas", "category_list": [{"id": "128853933850116", "name": "Landscaping"}, {"id": "156555961070638", "name": "Gardener"}], "id": "368067919905951"}
+{"category": "School", "name": "Texas A&M University Class Councils", "id": "118345951540000"}
+{"category": "Interest", "name": "Texas A&M Aggies women's basketball", "id": "137914629570928"}
+{"category": "School sports team", "name": "Texas A&M Fencing Club", "id": "279375802078967"}
+{"category": "Musician/band", "name": "A Texas Burial", "id": "199404926838902"}
+{"category": "Non-profit organization", "name": "AIESEC Texas A&M", "id": "198839050156172"}
+{"category": "Education", "name": "Texas A&M University at Galveston Admissions", "id": "315339291876305"}
+{"category": "Professional sports team", "name": "Texas A&M", "id": "227899150721924"}
+{"category": "Non-profit organization", "name": "Texas A&M Class of 2004", "id": "171089448400"}
+{"category": "University", "name": "Texas A&M Interfraternity Council", "id": "182611661753394"}
+{"category": "Business services", "name": "West Texas A&M University Enterprise Center", "category_list": [{"id": "139745066094977", "name": "Business Center"}, {"id": "179672275401610", "name": "Business Consultant"}, {"id": "151676848220295", "name": "Education"}], "id": "85773404035"}
+{"category": "University", "name": "Texas A&M Professional School Advising", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "156594077709877"}
+{"category": "Website", "name": "Texas2AFootball.com", "id": "344176468957496"}
+{"category": "Government organization", "name": "Texas A&M University EMS", "category_list": [{"id": "161422927240513", "name": "Government Organization"}, {"id": "163102447071743", "name": "Ambulance & Rescue"}], "id": "138316949513584"}
+{"category": "Education", "name": "Professional Program (Texas A&M University)", "id": "152844281469460"}
+{"category": "University", "name": "Texas A&M University-Kingsville:Frank H Dotterweich College of Engineering", "id": "179056968784705"}
+{"category": "Non-profit organization", "name": "Texas A&M Global Medical Brigades", "id": "259586487398637"}
+{"category": "Non-profit organization", "name": "Texas A&M Class of 1994", "id": "364252950333"}
+{"category": "Education", "name": "Texas A&M University - Commerce Equine Center", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "272720662867023"}
+{"category": "University", "name": "Texas A&M College of Veterinary Medicine & Biomedical Sciences", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "109473875737530"}
+{"category": "Organization", "name": "Texas A&M Omega Phi Alpha", "id": "464830380207200"}
+{"category": "Organization", "name": "Texas A&M Corps of Cadets FOW Class of 2016", "id": "290847817688947"}
+{"category": "Organization", "name": "Texas A&M Sailing Team", "id": "117992751553194"}
+{"category": "Local business", "name": "texas a&m", "category_list": [{"id": "2500", "name": "Local Business"}], "id": "246894558668149"}
+{"category": "Education", "name": "Texas A&M Industrial Distribution", "id": "240915529306206"}
+{"category": "Local business", "name": "Camden Miramar at Texas A&M University-Corpus Christi", "category_list": [{"id": "200600219953504", "name": "Shopping & Retail"}, {"id": "108051929285833", "name": "College & University"}, {"id": "181216025249367", "name": "Apartment & Condo Building"}], "id": "83034383389"}
+{"category": "University", "name": "Texas A&M-Corpus Christi College of Business", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "250381008328768"}
+{"category": "Non-profit organization", "name": "Make-A-Wish North Texas", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "62349277029"}
+{"category": "Organization", "name": "College Social - Texas A&M University", "id": "558640160868438"}
+{"category": "University", "name": "Texas A&M Commerce Morris Recreation Center Fitness & Wellness", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "105613406143035"}
+{"category": "Education", "name": "Texas A&M Rose Breeding and Genetics Program", "id": "107207969434854"}
+{"category": "University", "name": "West Texas A&M Rec Sports", "id": "148707128479729"}
+{"category": "Sports/recreation/activities", "name": "Tailgate Guys: Texas A&M", "category_list": [{"id": "124402857692349", "name": "Rental Company"}, {"id": "193705277324704", "name": "Event Planning"}, {"id": "186982054657561", "name": "Sports & Recreation"}], "id": "181257958674572"}
+{"category": "University", "name": "Texas A&M University-San Antonio: Student Government Association", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "269271671835"}
+{"category": "Library", "name": "Texas A&M Medical Sciences Library", "category_list": [{"id": "169896676390222", "name": "Library"}], "id": "131008296984378"}
+{"category": "Education", "name": "Texas A&M Department of Philosophy", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "163246842160"}
+{"category": "Non-profit organization", "name": "Make-A-Wish Texas Gulf Coast and Louisiana", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "109779415720268"}
+{"category": "School", "name": "Texas A&M Class of 2006", "id": "521007694624594"}
+{"category": "Education", "name": "Texas A&M University-Corpus Christi Social Sciences Department", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "154284491266788"}
+{"category": "University", "name": "Texas A&M University Class of '99", "id": "414996061844478"}
+{"category": "Music chart", "name": "Texas Dancehalls by a Texas Cowgirl", "id": "151144898385290"}
+{"category": "Organization", "name": "Texas A&M Film Studies Program", "id": "338557932829895"}
+{"category": "University", "name": "Texas A&M", "id": "214926375364765"}
+{"category": "University", "name": "Texas A & M", "id": "247654152072986"}
+{"category": "University", "name": "Texas A&M", "id": "241443632706639"}
+{"category": "University", "name": "Texas A&M", "id": "527455464038780"}
+{"category": "University", "name": "Texas A&M", "id": "380434515432227"}
+{"category": "Education", "name": "Texas A&M University-San Antonio Military Relations", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "260081080697400"}
+{"category": "University", "name": "Texas A&M International University Office of Information Technology", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "142197829134750"}
+{"category": "Government organization", "name": "Texas A&M - San Antonio Police Department", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "373324962789788"}
+{"category": "Farming/agriculture", "name": "Texas A&M AgriLife Research - Lubbock/Halfway & Pecos", "category_list": [{"id": "189323644423254", "name": "Agricultural Service"}, {"id": "108470879231339", "name": "Research Service"}, {"id": "191921914160604", "name": "Educational Research"}], "id": "147248165289923"}
+{"category": "Restaurant/cafe", "name": "A Little Taste of Texas", "category_list": [{"id": "198367566846946", "name": "Steakhouse"}], "id": "442586605783554"}
+{"category": "Education", "name": "Texas A&M Graduate Student Council", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "364704226993806"}
+{"category": "Non-profit organization", "name": "Sea Camp - Texas A&M University at Galveston", "category_list": [{"id": "152248208162513", "name": "Educational Camp"}], "id": "120502624680252"}
+{"category": "Local business", "name": "Texas A&M Mays Business School", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "156011424412463"}
+{"category": "Non-profit organization", "name": "Texas A&M AgriLife Extension Bexar County", "category_list": [{"id": "187751327923426", "name": "Educational Organization"}], "id": "486670578072481"}
+{"category": "Musician/band", "name": "Texas A&M University- Kingsville Trombone Studio", "id": "274646462560955"}
+{"category": "Non-profit organization", "name": "Texas A&M University Thesis Office", "id": "145141085504944"}
+{"category": "Neighborhood", "name": "Texas A&M University, College Station, Texas", "category_list": [{"id": "206555552714503", "name": "Neighborhood"}], "id": "377926572285202"}
+{"category": "Organization", "name": "Texas A&M Energy Club", "id": "125541204200729"}
+{"category": "Community", "name": "Texas A&M Class of '82", "id": "418413658225729"}
+{"category": "Organization", "name": "Texas A&M Corpus Christi English Department", "id": "105248706175323"}
+{"category": "Bank/financial institution", "name": "Texas Gulf Bank, N.A.", "id": "531849790161192"}
+{"category": "Shopping/retail", "name": "A Taste of Texas Wine", "category_list": [{"id": "192661127431931", "name": "Wine Bar"}, {"id": "200600219953504", "name": "Shopping & Retail"}], "id": "360612064275"}
+{"category": "Organization", "name": "Student Activities at Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "187751327923426", "name": "Educational Organization"}, {"id": "216161991738736", "name": "Campus Building"}], "id": "95002397471"}
+{"category": "Amateur sports team", "name": "Texas A&M International University Baseball", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "154069611289543"}
+{"category": "Non-profit organization", "name": "Texas A&M Alpha Tau Omega", "id": "260945720640418"}
+{"category": "Education", "name": "Texas A&M University Department of Residence Life - Residence Hall Living", "id": "46382914338"}
+{"category": "Non-profit organization", "name": "Gamma Phi Beta Texas A&M", "category_list": [{"id": "165264720195968", "name": "Sorority & Fraternity"}, {"id": "198503866828628", "name": "Organization"}], "id": "218721704805427"}
+{"category": "School sports team", "name": "Texas A&M Team Handball", "id": "122845357789448"}
+{"category": "University", "name": "West Texas A&M University Alumni Association", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "46934431768"}
+{"category": "Games/toys", "name": "Texas Lala-addicts (Lalaloopsy Hunters on a Mission)", "id": "187161301334417"}
+{"category": "University", "name": "Texas A&M REU in Costa Rica", "id": "106958569380140"}
+{"category": "Government organization", "name": "Texas A&M University-Corpus Christi Police Department", "category_list": [{"id": "161422927240513", "name": "Government Organization"}, {"id": "108051929285833", "name": "College & University"}, {"id": "200600219953504", "name": "Shopping & Retail"}], "id": "150560171647527"}
+{"category": "University", "name": "Texas A&M Corpus Christi Writing Center", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "130164960383972"}
+{"category": "Product/service", "name": "Texas Instruments TI-99/4A", "id": "44299666198"}
+{"category": "Education", "name": "Texas A&M International University Recreational Sports", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "202559363100438"}
+{"category": "Education", "name": "Texas A&M Ecosystem Science & Management", "id": "64507019611"}
+{"category": "Company", "name": "A Texas Style", "category_list": [{"id": "200600219953504", "name": "Shopping & Retail"}], "id": "133746078522"}
+{"category": "School sports team", "name": "Texas A&M\u2013Corpus Christi Islanders men's basketball", "id": "145622632135641"}
+{"category": "Community", "name": "Freedom Movement - Texas A&M", "id": "272715849517152"}
+{"category": "Local business", "name": "West Texas A&M Student Government", "category_list": [{"id": "2500", "name": "Local Business"}], "id": "55825962074"}
+{"category": "Organization", "name": "Texas A&M AADE Student Section", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "143546685719343"}
+{"category": "Health/medical/pharmaceuticals", "name": "Veterinary Emergency Team - Texas A&M University", "id": "180320892020176"}
+{"category": "Organization", "name": "ECDC-Texas A&M University-Corpus Christi", "category_list": [{"id": "200600219953504", "name": "Shopping & Retail"}, {"id": "198503866828628", "name": "Organization"}, {"id": "108051929285833", "name": "College & University"}], "id": "177794713837"}
+{"category": "Government organization", "name": "Texas A&M AgriLife Poultry Extension", "id": "270043216417451"}
+{"category": "Entertainment website", "name": "Through The Eyes of A Cowboy", "id": "267893303235387"}
+{"category": "University", "name": "Texas A&M University Biochemistry & Biophysics", "id": "312190878792583"}
+{"category": "Education", "name": "Texas A&M International University Dr. F.M. Canseco School of Nursing", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "178697088842891"}
+{"category": "Local business", "name": "Texas A-1 Steaks and Seafood", "id": "144721095575904"}
+{"category": "Organization", "name": "Texas A&M Zeta Tau Alpha's Big Man on Campus", "category_list": [{"id": "192119584190796", "name": "Event"}], "id": "544363255585605"}
+{"category": "Education", "name": "Texas A&M Science Outreach", "id": "226147800771041"}
+{"category": "University", "name": "Texas A&M Student Sports Pass Exchange", "id": "596155440416436"}
+{"category": "Education", "name": "Texas A&M University-Commerce Graduate School", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "151924361534975"}
+{"category": "Community", "name": "Texas A&M Class of 2003", "id": "431518680223524"}
+{"category": "University", "name": "Texas A&M University-Commerce Quality Enhancement Plan", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "224235817729383"}
+{"category": "School", "name": "Texas A&M Multicultural Greek Council", "id": "217328558315174"}
+{"category": "University", "name": "Texas A&M University Kingsville   Instructional Technology", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "260858627324588"}
+{"category": "School", "name": "Texas A&M University Class of 2018", "category_list": [{"id": "365182493518892", "name": "School"}], "id": "387114774750417"}
+{"category": "University", "name": "Texas A&M University Annual Assessment Conference", "id": "50824921694"}
+{"category": "University", "name": "Texas A&M University-Commerce Department of Agricultural Sciences", "id": "297457903694140"}
+{"category": "University", "name": "Texas A&M Women's Resource Center", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "55179410473"}
+{"category": "Non-profit organization", "name": "Texas A&M University-Commerce Fraternity and Sorority Life", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "272770406171586"}
+{"category": "Education", "name": "College of Graduate Studies, Texas A&M University-Kingsville", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "298443936841578"}
+{"category": "Public figure", "name": "Commandant, Corps of Cadets, Texas A&M University", "id": "158265500878018"}
+{"category": "Community", "name": "GIS Texas A&M", "id": "485794531464657"}
+{"category": "Education", "name": "Texas A&M University School of Law - Academic Affairs", "category_list": [{"id": "151676848220295", "name": "Education"}, {"id": "176831012360626", "name": "Professional Services"}], "id": "138029142904121"}
+{"category": "Government organization", "name": "Texas General Land Office Adopt-A-Beach Program", "id": "106580066028914"}
+{"category": "Education", "name": "A&M Consolidated High School", "category_list": [{"id": "199405806739848", "name": "Public School"}], "id": "124370520929310"}
+{"category": "Local business", "name": "Texas A&M AgriLife Extension Service - Tarrant County", "category_list": [{"id": "2500", "name": "Local Business"}], "id": "147035261979046"}
+{"category": "Musician/band", "name": "West Texas A&M University Marching Band", "id": "129935169305"}
+{"category": "University", "name": "Texas A&M Department of Medical Physiology", "category_list": [{"id": "190153097675457", "name": "Medical School"}], "id": "149898498493070"}
+{"category": "Amateur sports team", "name": "Texas Brahma's Junior A Team", "category_list": [{"id": "189018581118681", "name": "Sports Club"}], "id": "124508047580308"}
+{"category": "Concert tour", "name": "Texas A Cappella Celebration", "id": "426616074076506"}
+{"category": "Restaurant/cafe", "name": "Chick-fil-A of Kyle, Texas", "category_list": [{"id": "273819889375819", "name": "Restaurant"}], "id": "248716583439"}
+{"category": "Education", "name": "Texas A&M Engineering - Engineering Works", "id": "22978304038"}
+{"category": "Education", "name": "Texas A&M International University - University Learning Center", "id": "470276743016534"}
+{"category": "Education", "name": "Texas A&M Agrilife Extension - Harris County Horticulture", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "315518151903804"}
+{"category": "University", "name": "Texas A&M University at Galveston Sea Life Facility", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "454377387976589"}
+{"category": "Organization", "name": "Texas A&M University Target Archers", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "370244433045625"}
+{"category": "University", "name": "West Texas A&M Football", "id": "423741007717596"}
+{"category": "Shopping/retail", "name": "A touch of south texas", "category_list": [{"id": "192647794097278", "name": "Home Decor"}], "id": "591098570914739"}
+{"category": "Health/wellness website", "name": "Texas A&M Corpus Christi Student Health 101", "id": "389661051160199"}
+{"category": "Organization", "name": "Texas A&M University- Kingsville Javelina Cheer", "id": "173507419485593"}
+{"category": "Aerospace/defense", "name": "Aerospace Engineering, Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "38511992270"}
+{"category": "Musician/band", "name": "Texas A&M University-Commerce Trombone Choir", "id": "211232583981"}
+{"category": "School", "name": "Texas Tech University School of Art", "category_list": [{"id": "365182493518892", "name": "School"}, {"id": "108051929285833", "name": "College & University"}], "id": "67128823983"}
+{"category": "University", "name": "West Texas A&M University Horse Center", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "122437517962675"}
+{"category": "School sports team", "name": "Texas A&M College Rodeo", "category_list": [{"id": "197524766940938", "name": "Rodeo"}, {"id": "181108811925394", "name": "Horses"}, {"id": "108051929285833", "name": "College & University"}], "id": "596768663667585"}
+{"category": "Automobiles and parts", "name": "Texas A&M Sports Car Club - Tamscc", "id": "165122020337261"}
+{"category": "Non-profit organization", "name": "ALPFA at Texas A&M", "category_list": [{"id": "198503866828628", "name": "Organization"}, {"id": "108051929285833", "name": "College & University"}], "id": "177172199028237"}
+{"category": "Shopping/retail", "name": "A Texas Feeling Rustic Furniture, LLC", "category_list": [{"id": "200600219953504", "name": "Shopping & Retail"}], "id": "250367738317117"}
+{"category": "Organization", "name": "Texas A&M Center for International Business Studies", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "468601953206809"}
+{"category": "Organization", "name": "Texas A&M Men's Soccer Club", "id": "155757974544583"}
+{"category": "Education", "name": "Texas A&M Agricultural and Natural Resources Policy Internship Program", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "164316013685087"}
+{"category": "Education", "name": "A Kid's Day", "id": "172016869520820"}
+{"category": "Education", "name": "Texas A&M University - Kingsville Department of Psychology & Sociology", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "719757208037885"}
+{"category": "Restaurant/cafe", "name": "Chick-fil-A Greenville, Texas", "category_list": [{"id": "192803624072087", "name": "Fast Food Restaurant"}, {"id": "192108214153222", "name": "Breakfast & Brunch Restaurant"}, {"id": "110113695730808", "name": "Chicken Restaurant"}], "id": "114454325267287"}
+{"category": "Interest", "name": "Texas Instruments TI-99/4A", "id": "143404359005190"}
+{"category": "Restaurant/cafe", "name": "Chick-fil-A of Waxahachie Texas", "category_list": [{"id": "110113695730808", "name": "Chicken Restaurant"}, {"id": "192803624072087", "name": "Fast Food Restaurant"}], "id": "203893309664"}
+{"category": "Local business", "name": "Texas A&M Veterinary Medical Diagnostic Lab (TVMDL)", "id": "122423534477707"}
+{"category": "Local business", "name": "Texas A&M University - San Antonio Bookstore", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "197048876974331", "name": "Book Store"}], "id": "124174924276965"}
+{"category": "Non-profit organization", "name": "Texas Bengali Cultural Alliance ( T B C A )", "id": "437448432937096"}
+{"category": "Education", "name": "Texas A&M University Prospective Student Center in San Antonio", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "316637858434902"}
+{"category": "School", "name": "Texas A&M University-San Antonio Campus Activities Board", "category_list": [{"id": "365182493518892", "name": "School"}], "id": "207850162610185"}
+{"category": "Local business", "name": "Texas A&M University Hispanic Presidents' Council", "category_list": [{"id": "198503866828628", "name": "Organization"}, {"id": "108051929285833", "name": "College & University"}], "id": "103144389771384"}
+{"category": "Education", "name": "Become a Paralegal in Texas", "id": "397622230337608"}
+{"category": "Local business", "name": "West Texas A&M University Enactus", "category_list": [{"id": "2500", "name": "Local Business"}], "id": "149299728425775"}
+{"category": "University", "name": "Texas A&M University-San Antonio: Career Services", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "258544577493006"}
+{"category": "Recreation/sports website", "name": "5ATexasFootball.com", "id": "48767715891"}
+{"category": "School sports team", "name": "West Texas A&M Men's Basketball", "id": "299255143435987"}
+{"category": "Clothing", "name": "Texas Is A State of Mind", "id": "671172492935265"}
+{"category": "Restaurant/cafe", "name": "Chick-fil-A San Marcos Texas", "category_list": [{"id": "110113695730808", "name": "Chicken Restaurant"}, {"id": "192803624072087", "name": "Fast Food Restaurant"}, {"id": "200600219953504", "name": "Shopping & Retail"}], "id": "170111533015730"}
+{"category": "University", "name": "Texas A&M University-San Antonio: Student Counseling & Wellness", "id": "129671053787090"}
+{"category": "Musician/band", "name": "West Texas A&M University Trombone Studio", "id": "263511637034556"}
+{"category": "Community", "name": "Texas A&M Corps of Cadets, Company F-2 Foxes", "id": "348307895254866"}
+{"category": "Non-profit organization", "name": "Delta Zeta at West Texas A&M", "category_list": [{"id": "165264720195968", "name": "Sorority & Fraternity"}], "id": "207652295943440"}
+{"category": "Community organization", "name": "India Association - Texas A&M University", "category_list": [{"id": "151676848220295", "name": "Education"}, {"id": "152880021441864", "name": "Community Organization"}], "id": "111895813056"}
+{"category": "Musician/band", "name": "A Tragedy in Texas", "id": "198450880191933"}
+{"category": "Organization", "name": "Texas A&M Corpus Christi Zeta Tau Alpha", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "522316511121030"}
+{"category": "University", "name": "Graduate Studies at Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "25598779811"}
+{"category": "Local business", "name": "University Center at Texas A&M", "category_list": [{"id": "211155112228091", "name": "Event Venue"}, {"id": "108051929285833", "name": "College & University"}], "id": "182736118441730"}
+{"category": "Clothing", "name": "Victoria's Secret PINK at Texas A&M", "id": "187686704627202"}
+{"category": "Non-profit organization", "name": "Nautical Archaeology Program @ Texas A&M University", "id": "91017573658"}
+{"category": "Community", "name": "Texas A&M University-Corpus Christi Class of 2017", "id": "203830589764287"}
+{"category": "Education", "name": "Texas A&M - College of Ag/Life Sciences Study Abroad", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "386814491353496"}
+{"category": "Local business", "name": "A Hero's Journey Doula Services Austin, Texas", "id": "135442323154587"}
+{"category": "Local business", "name": "Painting With A Twist - Conroe, Texas", "category_list": [{"id": "133436743388217", "name": "Arts & Entertainment"}, {"id": "354275401259620", "name": "Nightlife"}, {"id": "164288046954643", "name": "Art School"}], "id": "150712248318241"}
+{"category": "Restaurant/cafe", "name": "The University of Texas Chick fil A", "category_list": [{"id": "188684981153971", "name": "Drive In Restaurant"}, {"id": "192803624072087", "name": "Fast Food Restaurant"}, {"id": "110113695730808", "name": "Chicken Restaurant"}], "id": "595461343800165"}
+{"category": "Local business", "name": "Texas Law Offices of Martin A. Harry, PLLC", "id": "232904192331"}
+{"category": "Organization", "name": "Texas A&M-Kingsville University ROTC Javelina Battalion", "id": "205518748722"}
+{"category": "Book", "name": "Texas As I See It - a Coffee Table Photography Book", "id": "224192630956684"}
+{"category": "Local business", "name": "Chabad Jewish Student Center at Texas A&M University", "category_list": [{"id": "187751327923426", "name": "Educational Organization"}, {"id": "184925784880952", "name": "Synagogue"}], "id": "8411089339"}
+{"category": "Education", "name": "TEXAS CONFEDERATE HERITAGE AND ISSUES: A CITIZEN\"S GUIDE", "id": "321491622915"}
+{"category": "Education", "name": "West Texas A&M JBK Student Center", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "144724368908115"}
+{"category": "Education", "name": "A. W. Brown-Fellowship Leadership Academy", "category_list": [{"id": "140234236045713", "name": "Elementary School"}], "id": "74161539862"}
+{"category": "Non-profit organization", "name": "Texas A & M AgriLife Extension Service - Starr County", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "138131498083"}
+{"category": "Government organization", "name": "Texas Army National Guard  SF, ABN, SOD-A, LRSC Info Page", "id": "37395239963"}
+{"category": "Education", "name": "A.M. Aikin Elementary School", "category_list": [{"id": "199405806739848", "name": "Public School"}], "id": "140893402609188"}
+{"category": "Non-profit organization", "name": "The Grand Lodge of Texas A.F. & A.M.", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "106291236071643"}
+{"category": "Home improvement", "name": "A All Animal Control of Dallas County, Texas", "category_list": [{"id": "177939525582614", "name": "Pest Control"}, {"id": "128784863859103", "name": "Home Inspection"}], "id": "343029445732790"}
+{"category": "Education", "name": "Atmospheric Sciences at Texas A&M University", "id": "109392435785916"}
+{"category": "Community", "name": "Texas to Panama in a Tesla", "id": "283998118418947"}
+{"category": "Education", "name": "Student Affairs: Texas A&M at Qatar", "id": "244066063175"}
+{"category": "Outdoor gear/sporting goods", "name": "South Texas Arms (S.T.A.)", "id": "185253714868064"}
+{"category": "Book", "name": "A Texas Three Step", "id": "325121880908168"}
+{"category": "University", "name": "English Language Institute at Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "156171931075983"}
+{"category": "Sports venue", "name": "Mike A. Myers Track & Soccer Stadium - The University of Texas at Austin", "category_list": [{"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "148932728496725", "name": "Public Places & Attractions"}, {"id": "108051929285833", "name": "College & University"}], "id": "143119085718618"}
+{"category": "Community", "name": "Things to do at Texas A&M", "id": "282394495216740"}
+{"category": "Community organization", "name": "Texas USofA Pageantry", "id": "210766085720237"}
+{"category": "Food/beverages", "name": "Spoon University - Texas A&M", "id": "661173023947281"}
+{"category": "Home/garden website", "name": "A Slice of Texas", "id": "466494163403924"}
+{"category": "Club", "name": "It's a Texas Thing - Y'all Wouldn't Understand.", "id": "374139623319"}
+{"category": "University", "name": "ISMA Texas A&M University", "id": "463711703702887"}
+{"category": "School", "name": "Texas A&M Health Science Center School of Rural Public Health", "id": "109637575729836"}
+{"category": "Education", "name": "Texas A&M University-San Antonio, College of Arts & Sciences", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "220377628056281"}
+{"category": "University", "name": "West Texas A&M Residential Living", "id": "506975189328461"}
+{"category": "Education", "name": "Texas A&M International University Campus Card Services", "id": "434819510197"}
+{"category": "University", "name": "West Texas A&M University Golf", "id": "418209104956385"}
+{"category": "Club", "name": "West Texas A&M BSM", "category_list": [{"id": "200600219953504", "name": "Shopping & Retail"}], "id": "71104138079"}
+{"category": "School", "name": "West Texas A&M University Rodeo Team", "category_list": [{"id": "365182493518892", "name": "School"}], "id": "552534554778838"}
+{"category": "University", "name": "Golden Key Texas A&M-Kingsville", "id": "339425562845376"}
+{"category": "University", "name": "Texas A&M Health Science Center Irma Lerma Rangel College of Pharmacy", "id": "112711762073210"}
+{"category": "Restaurant/cafe", "name": "A Taste Of Texas", "category_list": [{"id": "273819889375819", "name": "Restaurant"}], "id": "391046980948725"}
+{"category": "Non-profit organization", "name": "Sigma Alpha Pi - Texas A&M University Commerce", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "187751327923426", "name": "Educational Organization"}], "id": "363070127111647"}
+{"category": "Restaurant/cafe", "name": "Chick-fil-A South Coulter Street Amarillo Texas", "category_list": [{"id": "165679780146824", "name": "Food & Restaurant"}], "id": "103566396349420"}
+{"category": "University", "name": "Be a Longhorn, University of Texas at Austin", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "7694701786"}
+{"category": "Non-profit organization", "name": "The Wells Project Texas A&M University", "id": "176536798932"}
+{"category": "Community", "name": "Southeast Texas Save a Bully", "id": "138398482968576"}
+{"category": "Public figure", "name": "Texas, a Cat in New York", "id": "114954788526830"}
+{"category": "Education", "name": "Texas A&M University-Kingsville's Living Learning Community Program", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "125328734173852"}
+{"category": "Government organization", "name": "Fire Department Assistance - Texas A&M Forest Service", "id": "458905660881584"}
+{"category": "Political organization", "name": "Texas College Republicans of Texas A&M-Corpus Christi", "id": "419874648072641"}
+{"category": "Government organization", "name": "Texas A&M Agrilife Extension Service - Brazoria County", "id": "292390410903970"}
+{"category": "Organization", "name": "Aggie Anglers - Texas A&M Fishing Team", "id": "203033503129582"}
+{"category": "University", "name": "West Texas A&M University Department of Psychology, Sociology & Social Work", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "235577976558627"}
+{"category": "University", "name": "Hidalgo-Starr County Texas A&M Club", "id": "248317735524"}
+{"category": "University", "name": "West Texas A&M Scholarship Services", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "672689122755501"}
+{"category": "Community organization", "name": "Chi Omega at West Texas A&M University", "id": "170872716306880"}
+{"category": "Personal blog", "name": "A Yankee Mom in Texas", "id": "121309334714078"}
+{"category": "Government organization", "name": "Texas Parks and Wildlife Inland Fisheries District 3A - Marshall", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "488405954506326"}
+{"category": "Website", "name": "A History of Character: The Story of Midland, Texas", "id": "107799365938251"}
+{"category": "Museum/art gallery", "name": "Stark Galleries at Texas A&M University", "category_list": [{"id": "133436743388217", "name": "Arts & Entertainment"}], "id": "120826521280767"}
+{"category": "Bar", "name": "Up A Creek", "category_list": [{"id": "110290705711626", "name": "Bar"}], "id": "420761774663033"}
+{"category": "Organization", "name": "Zeta Tau Alpha Texas A&M", "id": "528455920601264"}
+{"category": "Local business", "name": "The Club l Texas A&M University-Commerce", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "280724170448"}
+{"category": "Community", "name": "Texas Dance Halls by a 5th Generation Texan", "id": "370174333020501"}
+{"category": "Local business", "name": "Texas Trading Post With A Little Kountry Bling", "category_list": [{"id": "191647907538150", "name": "Gift Shop"}], "id": "510243795669418"}
+{"category": "Non-profit organization", "name": "Sigma Nu at West Texas A&M", "category_list": [{"id": "165264720195968", "name": "Sorority & Fraternity"}, {"id": "198503866828628", "name": "Organization"}], "id": "222178297792776"}
+{"category": "Non-profit organization", "name": "Twloha at Texas A&M", "id": "238654849590344"}
+{"category": "Community", "name": "The School of Music at West Texas A&M University", "id": "125179320964808"}
+{"category": "Professional services", "name": "A to Z Estate Sale Specialist of North Texas", "category_list": [{"id": "204887546203055", "name": "Estate Planning"}, {"id": "192625037432720", "name": "Real Estate Service"}, {"id": "162920420424772", "name": "Retirement & Assisted Living Facility"}], "id": "177294025728031"}
+{"category": "University", "name": "Texas A&M University - Commerce COEHS Mentor Center", "id": "171962696158022"}
+{"category": "Community", "name": "We want a Whole Foods in Clear Lake Texas", "id": "160340387446556"}
+{"category": "Community organization", "name": "Alpha Delta Pi at Texas A&M University", "category_list": [{"id": "152880021441864", "name": "Community Organization"}], "id": "101883969221"}
+{"category": "Education", "name": "A&R School of Audio and Recording.", "id": "459285507483175"}
+{"category": "Education", "name": "A Kid's World Montessori Preschool", "category_list": [{"id": "164595956925901", "name": "Day Care & Preschool"}, {"id": "186998168001766", "name": "Private School"}, {"id": "181811248521973", "name": "Child Care"}], "id": "79133076237"}
+{"category": "School sports team", "name": "West Texas A&M University Pom Squad", "id": "524128624298033"}
+{"category": "Restaurant/cafe", "name": "White Smoke - A Texas Smokehouse", "category_list": [{"id": "203693296307954", "name": "Southern Restaurant"}, {"id": "167954166588517", "name": "Diner"}, {"id": "150534008338515", "name": "Barbecue Restaurant"}], "id": "277832352231406"}
+{"category": "Non-profit organization", "name": "Oklahoma City Texas A&M Club", "id": "138494976211351"}
+{"category": "Education", "name": "Department of Agricultural Sciences, West Texas A&M University", "category_list": [{"id": "151676848220295", "name": "Education"}], "id": "160568100676481"}
+{"category": "Publisher", "name": "A Shot of Texas Magazine", "category_list": [{"id": "272705352802676", "name": "Outdoors"}, {"id": "175333089178368", "name": "Hunting and Fishing"}], "id": "276956095680427"}
+{"category": "Local business", "name": "Confucius Institute at Texas A&M University", "id": "9376317894"}
+{"category": "Education", "name": "West Texas A&M University Social Work Program", "id": "274059046038429"}
+{"category": "Shopping/retail", "name": "H.A.V. Famous Texas Boots", "category_list": [{"id": "200600219953504", "name": "Shopping & Retail"}], "id": "486372714728049"}
+{"category": "University", "name": "A&M Vision Inspired", "id": "136318516433644"}
+{"category": "School", "name": "West Texas A&M Study Abroad", "id": "162336980495845"}
+{"category": "Organization", "name": "Theta Fiesta at Texas A&M", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "192233577576697"}
+{"category": "Restaurant/cafe", "name": "McDaniel Hill, a Texas Family Cafe", "category_list": [{"id": "110107385737667", "name": "New American Restaurant"}], "id": "207484209262906"}
+{"category": "Organization", "name": "Persian Student Association - Texas A&M University", "id": "110835969005758"}
+{"category": "Non-profit organization", "name": "Texas Forward: A Balanced Approach to a Balanced Budget", "id": "150507614971842"}
+{"category": "Local business", "name": "Texas Adopt-a-Greyhound Society, Inc.", "category_list": [{"id": "2500", "name": "Local Business"}], "id": "135351273829"}
+{"category": "Retail and consumer merchandise", "name": "Southern Tide - Texas A&M University", "id": "393801774006338"}
+{"category": "Education", "name": "Career Services Center Texas A&M University-Kingsville", "id": "261153552546"}
+{"category": "Sports league", "name": "1aTexasfootball", "category_list": [{"id": "1800", "name": "Sports League"}], "id": "279243367030"}
+{"category": "Website", "name": "Texas Chainsaw Massacre: A Visit to the Film Locations", "id": "373330279358997"}
+{"category": "Non-profit organization", "name": "Phi Delta Theta: Texas A&M University-Corpus Christi", "id": "84888218193"}
+{"category": "Movie", "name": "Texas Chain Saw Massacre", "id": "108232112540979"}
+{"category": "Community", "name": "Disaster Day-Texas A&M Health Science Center", "id": "166609676880085"}
+{"category": "Community", "name": "Alpha Tau Omega at West Texas A&M", "id": "112490025440670"}
+{"category": "Government official", "name": "Dozer & Tracker: Texas A&M Forest Service K9 Arson Investigators", "id": "158124071012417"}
+{"category": "Shopping/retail", "name": "Twice Upon a Time", "category_list": [{"id": "192614304101075", "name": "Children's Clothing Store"}, {"id": "178680352174443", "name": "Toy Store"}, {"id": "109512302457693", "name": "Shoe Store"}], "id": "336713290462"}
+{"category": "Company", "name": "A+ Nannies of Texas", "category_list": [{"id": "181811248521973", "name": "Child Care"}, {"id": "114044592008363", "name": "Nanny"}, {"id": "212086618801415", "name": "Babysitter"}], "id": "246367952110284"}
+{"category": "Organization", "name": "SPE Texas A&M University at Qatar", "id": "163909707005347"}
+{"category": "University", "name": "Squadron 16, Texas A&M Corps of Cadets", "id": "206955816168469"}
+{"category": "Church/religious organization", "name": "TheREVOLUTION at Texas A&M", "id": "121512667950991"}
+{"category": "Legal/law", "name": "Lexis at Texas A&M School of Law", "id": "184406841577948"}
+{"category": "Sports venue", "name": "Southwest Classic - Arkansas vs Texas A&M", "id": "168883771958"}
+{"category": "Education", "name": "Department of Political Science, Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "74913119827"}
+{"category": "Non-profit organization", "name": "T.A.A.I.D. Texas Adults with Autism & Intellectual Disabilities", "id": "106752059354946"}
+{"category": "Website", "name": "Mine Texas - A Texas Minecraft Server", "id": "164746500204174"}
+{"category": "Non-profit organization", "name": "Zeta Tau Alpha at West Texas A&M", "id": "166721946724858"}
+{"category": "Personal website", "name": "Jackie Briseno, Texas A&M International University SGA President", "id": "126353767511578"}
+{"category": "Book", "name": "Texas: A Free Nation Under God; A Modern Story of Texas Secretly Seceding", "id": "601566823207012"}
+{"category": "Community", "name": "APhA-ASP Texas Tech Chapter", "id": "400876876598702"}
+{"category": "Retail and consumer merchandise", "name": "Southern Tide - Texas A&M University at Galveston", "id": "607682475938339"}
+{"category": "Non-profit organization", "name": "Delta Sigma Phi at Texas A&M", "id": "554409247903883"}
+{"category": "Government organization", "name": "West Texas A&M University Police Department", "category_list": [{"id": "161422927240513", "name": "Government Organization"}], "id": "144522172308350"}
+{"category": "Non-profit organization", "name": "Delta Tau Delta at Texas A&M University - Commerce", "category_list": [{"id": "2603", "name": "Non-Profit Organization"}], "id": "346125195442393"}
+{"category": "Community organization", "name": "Presidio County Texas A&M AgriLife Extension", "id": "133468156690108"}
+{"category": "Organization", "name": "Project Sunshine at Texas A&M University", "category_list": [{"id": "198503866828628", "name": "Organization"}, {"id": "108051929285833", "name": "College & University"}], "id": "280645288649232"}
+{"category": "Organization", "name": "Gator 2- Texas A&M Corps of Cadets", "id": "353518721398932"}
+{"category": "Local business", "name": "South Texas Spinal Clinic, P.A.", "category_list": [{"id": "188234584533149", "name": "Doctor"}], "id": "214421169778"}
+{"category": "Local business", "name": "Texas A&M Rec Sports", "category_list": [{"id": "183013211744255", "name": "Recreation Center"}, {"id": "184405378265823", "name": "Gym"}, {"id": "191681657527859", "name": "Fitness Center"}], "id": "145232362175824"}
+{"category": "Local business", "name": "Texas A&M - Reed Arena", "category_list": [{"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "186982054657561", "name": "Sports & Recreation"}, {"id": "211155112228091", "name": "Event Venue"}], "id": "167192690078991"}
+{"category": "Local business", "name": "Texas A&M - Kyle Field", "category_list": [{"id": "192119584190796", "name": "Event"}, {"id": "186982054657561", "name": "Sports & Recreation"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}], "id": "288645011248828"}
+{"category": "Local business", "name": "Texas A&M Fire Training School", "category_list": [{"id": "150681761655205", "name": "Fire Station"}, {"id": "108051929285833", "name": "College & University"}], "id": "105285012864506"}
+{"category": "Local business", "name": "Texas A-1 Steaks & Seafood", "category_list": [{"id": "163300367054197", "name": "Seafood Restaurant"}, {"id": "198367566846946", "name": "Steakhouse"}], "id": "109941979085498"}
+{"category": "Local business", "name": "Texas A1 Steaks & Seafood", "category_list": [{"id": "163300367054197", "name": "Seafood Restaurant"}, {"id": "198367566846946", "name": "Steakhouse"}], "id": "117674804918023"}
+{"category": "Local business", "name": "Texas A&M Physicians", "category_list": [{"id": "145118935550090", "name": "Medical & Health"}], "id": "107589129376673"}
+{"category": "Local business", "name": "Dallas Texas U.S.A", "category_list": [{"id": "224455390913969", "name": "City"}], "id": "247911478602052"}
+{"category": "Local business", "name": "Texas A&M Natatorium", "category_list": [{"id": "124887510918208", "name": "Swimming Pool"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "108051929285833", "name": "College & University"}], "id": "106838919385995"}
+{"category": "Local business", "name": "Texas A&M Small Animal Clinic", "category_list": [{"id": "162068413843305", "name": "Veterinarian"}, {"id": "108051929285833", "name": "College & University"}], "id": "157661360930993"}
+{"category": "Local business", "name": "Texas A&M University - San Antonio : Main Campus", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "132671486828781"}
+{"category": "Local business", "name": "Texas A&M Health Science Center", "category_list": [{"id": "145118935550090", "name": "Medical & Health"}, {"id": "108051929285833", "name": "College & University"}], "id": "354039604697886"}
+{"category": "Local business", "name": "Texas A&M Vet School", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "365182493518892", "name": "School"}], "id": "122598014462942"}
+{"category": "Restaurant/cafe", "name": "A&G Texas Weiners", "category_list": [{"id": "273819889375819", "name": "Restaurant"}], "id": "197381656964235"}
+{"category": "Local business", "name": "Texas A&M University San Antonio Brooks City Base Campus", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "184401708298006"}
+{"category": "Local business", "name": "Texas A&M  College Station", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}], "id": "227628947250526"}
+{"category": "Local business", "name": "Texas A&M Campus", "category_list": [{"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "108051929285833", "name": "College & University"}], "id": "109238695802766"}
+{"category": "Local business", "name": "Texas A&M Penberthy Intramural Fields", "category_list": [{"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "108051929285833", "name": "College & University"}, {"id": "110152272401235", "name": "High School"}], "id": "145939562133669"}
+{"category": "Local business", "name": "Texas A&M University Rudder Theatre", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "133436743388217", "name": "Arts & Entertainment"}], "id": "445958602107240"}
+{"category": "Local business", "name": "Texas A&M: Psychology Building", "category_list": [{"id": "365182493518892", "name": "School"}, {"id": "108051929285833", "name": "College & University"}], "id": "106792749382725"}
+{"category": "Local business", "name": "Texas A&M: Zachry Engineering Center", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "176831012360626", "name": "Professional Services"}], "id": "121209771263272"}
+{"category": "Library", "name": "Texas A&M Galveston Library", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "169896676390222", "name": "Library"}], "id": "190300684359654"}
+{"category": "Local business", "name": "Texas A&M AGLS", "category_list": [{"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "108051929285833", "name": "College & University"}], "id": "186713121378189"}
+{"category": "Arts/entertainment/nightlife", "name": "Painting with a Twist - Bossier City", "category_list": [{"id": "133436743388217", "name": "Arts & Entertainment"}], "id": "166293163414842"}
+{"category": "Local business", "name": "Texas A&M Commerce", "category_list": [{"id": "198503866828628", "name": "Organization"}], "id": "116279601771808"}
+{"category": "Local business", "name": "Texas A&M San Antonio", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "273516129436311"}
+{"category": "Local business", "name": "Texas A&M Commons Lobby", "category_list": [{"id": "133436743388217", "name": "Arts & Entertainment"}, {"id": "108051929285833", "name": "College & University"}], "id": "120411228011152"}
+{"category": "Local business", "name": "Texas A&M Blocker Building", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}], "id": "308080529218391"}
+{"category": "Local business", "name": "Texas A&m Large Animal Hospital", "category_list": [{"id": "176831012360626", "name": "Professional Services"}], "id": "516315508402885"}
+{"category": "Restaurant/cafe", "name": "Chick-fil-A at Killeen", "category_list": [{"id": "110113695730808", "name": "Chicken Restaurant"}], "id": "173093439372992"}
+{"category": "Local business", "name": "Texas A & M", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "119754891425326"}
+{"category": "Local business", "name": "Texas A&M Commerce Metroplex Center", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "114734418580221"}
+{"category": "Local business", "name": "A Little Bit of Texas", "category_list": [{"id": "188662441155211", "name": "Community & Government"}, {"id": "110290705711626", "name": "Bar"}], "id": "116576538456993"}
+{"category": "Company", "name": "I Am A Texan", "category_list": [{"id": "2200", "name": "Company"}], "id": "348555855215309"}
+{"category": "Local business", "name": "College Station Texas A&M", "category_list": [{"id": "206555552714503", "name": "Neighborhood"}, {"id": "108051929285833", "name": "College & University"}], "id": "146583048696724"}
+{"category": "Health/medical/pharmacy", "name": "Arthritis & Osteoporosis Clinic of East Texas", "category_list": [{"id": "145118935550090", "name": "Medical & Health"}], "id": "340017909416634"}
+{"category": "Local business", "name": "Painting with a Twist - College Station, TX", "category_list": [{"id": "133436743388217", "name": "Arts & Entertainment"}], "id": "361245743930394"}
+{"category": "Local business", "name": "Texas A&M University - Heldenfels Building", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "150322914996567"}
+{"category": "Local business", "name": "Texas A&M Riverside Campus--TEEX", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "108629562528520"}
+{"category": "Local business", "name": "Texas A&M Tennis Center", "category_list": [{"id": "187950394558510", "name": "Tennis"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}, {"id": "108051929285833", "name": "College & University"}], "id": "157733507591947"}
+{"category": "Local business", "name": "Texas A&M Kingsville Javelina Stadium", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "524890524188643"}
+{"category": "Local business", "name": "Texas A&M", "category_list": [{"id": "2500", "name": "Local Business"}], "id": "319366148124942"}
+{"category": "University", "name": "Texas A&M University-Commerce CHEC", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "175871925931406"}
+{"category": "Local business", "name": "Texas A&M", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "129428333809271"}
+{"category": "Local business", "name": "Texas A&M Bonfire Memorial", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "138407952872873"}
+{"category": "Local business", "name": "Texas A&M", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}], "id": "173726222654287"}
+{"category": "Local business", "name": "Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "401692399842061"}
+{"category": "Local business", "name": "Texas A&M University- Sub", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "115903411805139"}
+{"category": "Local business", "name": "Texas A-1 Restaurant", "category_list": [{"id": "273819889375819", "name": "Restaurant"}], "id": "195165167170965"}
+{"category": "Health/medical/pharmacy", "name": "Texas Orthopedic Specialists, P.A.", "category_list": [{"id": "188234584533149", "name": "Doctor"}, {"id": "181885068517499", "name": "Physical Therapist"}], "id": "175225219175448"}
+{"category": "Local business", "name": "Allen Building (Texas A&M)", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "122887404429053"}
+{"category": "Local business", "name": "Texas A&M University", "category_list": [{"id": "108051929285833", "name": "College & University"}, {"id": "109976259083543", "name": "Sports Venue & Stadium"}], "id": "105741136154566"}
+{"category": "Local business", "name": "Aston Hall-Texas A&M", "category_list": [{"id": "108051929285833", "name": "College & University"}], "id": "113713845349286"}
+{"paging": {"previous": "https://graph.facebook.com/search?limit=5000&offset=0&type=page&q=%22%2A%22Texas+AND+A%5C&access_token=CAAUZBeKEOHlIBAD3BBzVODnZB1jkv2o8sHhZBHz5GNZC9ZCMujTr64NbZCn83uxmq3M3U5tyaxe3TUd4IQ20IGCKCMpcaf1HiZBLGHO6dcahUCZAtkK4yolCiJjRgXMywiiRZC9NI5aretMLhiY76IJL6HqgCMAAUkkDnK1AVXdB9L83ACnUPtxXn"}, "data": []}
